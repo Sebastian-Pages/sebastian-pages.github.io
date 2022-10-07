@@ -2,4 +2,5 @@
 
 This is my personnal website
 
-theme:minima
+# Build settings
+theme: minima
